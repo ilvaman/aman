@@ -6,7 +6,13 @@ graphs
 trees
 linked list
 
+array
+String
+
 
 Thanks
 
+Done my changes
+
 final copy
+
