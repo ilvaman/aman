@@ -6,5 +6,8 @@ graphs
 trees
 linked list
 
+array
+String
+
 
 Thanks
